@@ -4,5 +4,5 @@
 export default function SignIn() {
  
 
-  return <div><h2>login</h2></div>
+  return <div><h2>Login</h2></div>
 }
